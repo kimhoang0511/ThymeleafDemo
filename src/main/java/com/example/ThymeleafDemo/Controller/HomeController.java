@@ -69,8 +69,6 @@ public class HomeController {
 
         return "hello"; // trả về file hello.html cùng với thông tin trong object Model
 
-        //abc
-        //ccc
 
     }
 
