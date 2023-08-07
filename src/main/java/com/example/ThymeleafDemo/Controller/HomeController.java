@@ -68,6 +68,10 @@ public class HomeController {
         model.addAttribute("name", name);
 
         return "hello"; // trả về file hello.html cùng với thông tin trong object Model
+
+        //abc
+        //ccc
+
     }
 
 
